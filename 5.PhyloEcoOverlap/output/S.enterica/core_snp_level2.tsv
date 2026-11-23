@@ -1,0 +1,36 @@
+metric	value
+tree	input\Salmonella\core_snp.nwk
+level	2
+genomes	100
+categories	20
+permutations	10000
+seed	12345
+observed_within_category_MPD	0.17859692847997127
+between_category_MPD	0.1961012559623424
+null_mean_MPD	0.19536002203847397
+null_sd_MPD	0.003289211148840554
+SES	5.096387188281203
+overlap_effect	0.08926167961786287
+permutation_P	9.999000099990002e-05
+
+category	genomes	within_pairs	observed_MPD
+Environment|Environmental_swabs_and_sponges	5	10	0.22214035190320963
+Environment|Sediment_and_waste	5	10	0.20018096363959376
+Environment|Water_and_wastewater	5	10	0.21036418514921876
+Food_chain|Beef_products	5	10	0.22260986675584485
+Food_chain|Chicken_products	5	10	0.12745500621722838
+Food_chain|General_food_and_retail	5	10	0.1727259183266259
+Food_chain|Mixed_processed_and_specialty_foods	5	10	0.19467988050387594
+Food_chain|Plant-derived_foods	5	10	0.1984628223827964
+Food_chain|Pork_products	5	10	0.18988336413197
+Food_chain|Seafood_and_aquatic_foods	5	10	0.1493775475984469
+Food_chain|Turkey_and_duck_products	5	10	0.17708020360446108
+Human_clinical|Blood_and_tissues	5	10	0.18530109928509986
+Human_clinical|Gastrointestinal_and_urogenital	5	10	0.1565100370546268
+Human_clinical|Wounds_and_abscesses	5	10	0.1029283318054203
+Livestock_and_Other_animals|Animal_organs_and_body_sites	5	10	0.17387527938319153
+Livestock_and_Other_animals|Cattle	5	10	0.19474903073836158
+Livestock_and_Other_animals|Chicken_and_poultry_birds	5	10	0.20206507791597167
+Livestock_and_Other_animals|Companion_animals	5	10	0.14230138900002232
+Livestock_and_Other_animals|Swine	5	10	0.16763162099718454
+Livestock_and_Other_animals|Wildlife_and_other_animals	5	10	0.18161659320627574

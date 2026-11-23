@@ -1,0 +1,20 @@
+metric	value
+tree	input\Salmonella\core_snp.nwk
+level	1
+genomes	100
+categories	4
+permutations	10000
+seed	12345
+observed_within_category_MPD	0.19385784906889333
+between_category_MPD	0.19601501179970143
+null_mean_MPD	0.19539419791146526
+null_sd_MPD	0.002211272753544956
+SES	0.6947803431797168
+overlap_effect	0.011005089411276328
+permutation_P	0.22257774222577742
+
+category	genomes	within_pairs	observed_MPD
+Environment	15	105	0.19877087065608157
+Food_chain	40	780	0.1921256705857381
+Human_clinical	15	105	0.16376763197270386
+Livestock_and_Other_animals	30	435	0.20304107836844787

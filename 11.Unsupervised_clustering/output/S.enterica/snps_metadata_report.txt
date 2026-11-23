@@ -1,0 +1,50 @@
+=== META-SELECTOR RECOMMENDATION ===
+Input:            input\Salmonella\snps_metadata.tsv
+Matrix shape:     2408 x 100
+Label delimiter:  '|'
+Label levels:     2
+Task:             auto
+Units:            binary
+Dataset size:     average
+Square distances: False
+
+Known-label cluster validation:
+  Silhouette:         higher is better (-1 to 1)
+  Calinski-Harabasz:  higher is better
+  Davies-Bouldin:     lower is better (0 is ideal)
+  Level 1:
+    samples used:       2408
+    groups:             4
+    Silhouette:         -0.020749
+    Calinski-Harabasz:  24.390165
+    Davies-Bouldin:     10.924762
+  Level 2:
+    samples used:       2408
+    groups:             20
+    Silhouette:         -0.159757
+    Calinski-Harabasz:  14.444709
+    Davies-Bouldin:     10.003793
+
+Best algorithm:
+  HDBSCAN
+
+Why selected:
+  - Binary genomics/metagenomics matrices often contain noise and missing calls.
+  - HDBSCAN handles variable-density clusters and labels ambiguous items as noise without choosing k.
+
+Recommended parameters:
+  hdbscan_metric: jaccard (or precomputed)
+  min_cluster_size: 48
+  min_samples: 24
+
+Example run command:
+py run.py Salmonella snps_metadata.tsv HDBSCAN --hdbscan_metric jaccard --min_cluster_size 48 --min_samples 24 --output_format all
+
+Good alternatives (if needed):
+  - DBSCAN (if eps can be tuned)
+    py run.py Salmonella snps_metadata.tsv DBSCAN --dbscan_metric jaccard --min_samples 24 --eps 0.2 --output_format all
+  - AGGLO (tree on Jaccard)
+    py run.py Salmonella snps_metadata.tsv AGGLO --agg_metric jaccard --agg_linkage average --output_format all
+  - SA (fixed-k partitions)
+    py run.py Salmonella snps_metadata.tsv SA --metric jaccard --similarity gaussian --max_cluster_number 5 --max_cluster_content 5 --output_format all
+===================================

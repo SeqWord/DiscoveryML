@@ -1,0 +1,3218 @@
+﻿Tester records: 554
+True hierarchical matches: 292
+False hierarchical matches: 73
+Intermediate level fallbacks: 188
+Not identified: 1
+True-match rate: 52.71%
+False-match rate: 13.18%
+Fallback rate: 33.94%
+
+Environment|Environmental swabs and sponges|GCA_018338875.2_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|Chicken products|GCA_041411205.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Human clinical|Gastrointestinal and urogenital|GCA_049154925.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Human clinical|Gastrointestinal and urogenital|GCA_049154935.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Human clinical|Gastrointestinal and urogenital|GCA_049155515.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Human clinical|Gastrointestinal and urogenital|GCA_049157205.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Human clinical|Gastrointestinal and urogenital|GCA_049157815.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_050847175.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_050847215.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Beef products|GCA_051122495.1_genomic.fna.gz
+     5, 0.9951	Root.0	False
+Food chain|Turkey and duck products|GCA_052421595.1_genomic.fna.gz
+     5, 0.9969	Root.0	False
+Environment|Environmental swabs and sponges|GCA_052700425.3_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Plant-derived foods|GCA_052954805.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|Seafood and aquatic foods|GCA_053118515.2_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Livestock and Other animals|Wildlife and other animals|GCA_053155495.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053159455.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Human clinical|Blood and tissues|GCA_053159515.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053161455.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Human clinical|Blood and tissues|GCA_053161495.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053161655.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Human clinical|Blood and tissues|GCA_053161675.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Human clinical|Blood and tissues|GCA_053161695.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053161735.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Human clinical|Blood and tissues|GCA_053161755.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053161835.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053161855.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053162035.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053162075.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053162215.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053162315.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053162475.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053162575.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053162775.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Human clinical|Blood and tissues|GCA_053162975.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Human clinical|Blood and tissues|GCA_053163075.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Plant-derived foods|GCA_053164815.1_genomic.fna.gz
+     Not identified
+Environment|Water and wastewater|GCA_053168875.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Water and wastewater|GCA_053168895.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Human clinical|Gastrointestinal and urogenital|GCA_053170255.1_genomic.fna.gz
+     14, 0.9918	Root.0	False
+Food chain|General food and retail|GCA_053199365.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Chicken products|GCA_053199905.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|Pork products|GCA_053213705.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|General food and retail|GCA_053213735.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|Pork products|GCA_053213835.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Food chain|Chicken products|GCA_053214015.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|General food and retail|GCA_053216195.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|Chicken products|GCA_053217955.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Beef products|GCA_053218635.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Food chain|General food and retail|GCA_053218715.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Swine|GCA_053218815.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Food chain|General food and retail|GCA_053218855.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053219035.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|Chicken products|GCA_053219215.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|Chicken products|GCA_053219275.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Livestock and Other animals|Cattle|GCA_053219415.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9963	Root.10	True
+Livestock and Other animals|Cattle|GCA_053219435.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Food chain|Chicken products|GCA_053224345.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053224385.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_053224445.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Water and wastewater|GCA_053225185.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_053227385.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Cattle|GCA_053227585.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Environment|Sediment and waste|GCA_053242355.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053242395.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053242435.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053242455.1_genomic.fna.gz
+     14, 0.9952	Root.0	False
+Environment|Sediment and waste|GCA_053242715.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053242735.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCA_053242775.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053242835.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053242855.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Environment|Sediment and waste|GCA_053242875.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053242995.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9898	Root.13	True
+     Environment|Water and wastewater, 0.9898	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9898	Root.13	True
+     Food chain|Beef products, 0.9883	Root.13	True
+     Food chain|Pork products, 0.9882	Root.13	True
+Environment|Sediment and waste|GCA_053243295.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053243315.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCA_053243535.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053243795.1_genomic.fna.gz
+     10, 0.9946	Root.0	False
+Environment|Sediment and waste|GCA_053243975.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053244435.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053244795.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCA_053244815.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCA_053244975.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Environment|Sediment and waste|GCA_053244995.1_genomic.fna.gz
+     10, 0.9964	Root.0	False
+Environment|Sediment and waste|GCA_053245055.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053245135.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Environment|Sediment and waste|GCA_053245215.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053245235.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053245255.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053245315.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053245435.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Environment|Sediment and waste|GCA_053245995.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053246255.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053246295.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCA_053246535.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053246575.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Sediment and waste|GCA_053246755.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCA_053246915.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053247095.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053247195.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCA_053247275.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053247295.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053247315.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053247655.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053247815.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053248075.1_genomic.fna.gz
+     14, 0.9851	Root.0	False
+Environment|Sediment and waste|GCA_053248115.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053248815.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Sediment and waste|GCA_053248855.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Sediment and waste|GCA_053248895.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053248995.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053249035.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Sediment and waste|GCA_053249075.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Sediment and waste|GCA_053249095.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053249195.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053249335.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.8857	Root.12	True
+Environment|Sediment and waste|GCA_053249495.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9494	Root.12	True
+Environment|Sediment and waste|GCA_053249735.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9494	Root.12	True
+Environment|Sediment and waste|GCA_053249775.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Environment|Sediment and waste|GCA_053249815.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053249955.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Sediment and waste|GCA_053249995.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.8857	Root.12	True
+Environment|Sediment and waste|GCA_053250175.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053250235.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053250255.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053250335.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053250355.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053250595.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053250695.1_genomic.fna.gz
+     14, 0.9952	Root.0	False
+Environment|Sediment and waste|GCA_053250715.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053250735.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053250755.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCA_053250835.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Environment|Sediment and waste|GCA_053250975.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053251055.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053251095.1_genomic.fna.gz
+     12, 0.9826	Root.0	False
+Environment|Sediment and waste|GCA_053251275.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053251395.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Environment|Sediment and waste|GCA_053251455.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCA_053251535.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053251735.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCA_053251755.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|General food and retail|GCA_053260695.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Human clinical|Gastrointestinal and urogenital|GCA_053273575.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Chicken products|GCA_053277555.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|General food and retail|GCA_053277575.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Cattle|GCA_053278755.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053279775.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Livestock and Other animals|Animal organs and body sites|GCA_053280135.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Animal organs and body sites|GCA_053280195.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Water and wastewater|GCA_053280355.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Livestock and Other animals|Animal organs and body sites|GCA_053280535.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Animal organs and body sites|GCA_053280615.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Livestock and Other animals|Animal organs and body sites|GCA_053280655.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Human clinical|Blood and tissues|GCA_053281135.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Animal organs and body sites|GCA_053281135.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Animal organs and body sites|GCA_053281175.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Water and wastewater|GCA_053281475.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Livestock and Other animals|Animal organs and body sites|GCA_053282835.1_genomic.fna.gz
+     14, 0.9952	Root.0	False
+Food chain|Chicken products|GCA_053283565.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053283585.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Swine|GCA_053287725.1_genomic.fna.gz
+     10, 0.9939	Root.0	False
+Food chain|General food and retail|GCA_053289245.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Pork products|GCA_053289285.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Beef products|GCA_053289305.1_genomic.fna.gz
+     12, 0.9826	Root.0	False
+Food chain|Chicken products|GCA_053295815.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|Chicken products|GCA_053296085.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Chicken products|GCA_053298035.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Chicken products|GCA_053299935.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|General food and retail|GCA_053303055.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Chicken products|GCA_053303075.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Chicken products|GCA_053303155.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053303175.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Cattle|GCA_053303295.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Livestock and Other animals|Cattle|GCA_053303795.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|General food and retail|GCA_053303855.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053304015.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_053304135.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053304175.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Food chain|Chicken products|GCA_053304415.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Turkey and duck products|GCA_053305355.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|General food and retail|GCA_053305975.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Chicken products|GCA_053306155.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|General food and retail|GCA_053311595.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Beef products|GCA_053339725.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|General food and retail|GCA_053355375.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053356155.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Cattle|GCA_053367095.1_genomic.fna.gz
+     10, 0.9964	Root.0	False
+Livestock and Other animals|Cattle|GCA_053367235.1_genomic.fna.gz
+     6, 0.9827	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_053367375.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Environment|Water and wastewater|GCA_053367615.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9963	Root.10	True
+Environment|Water and wastewater|GCA_053367715.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Livestock and Other animals|Cattle|GCA_053368075.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Livestock and Other animals|Cattle|GCA_053368085.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Livestock and Other animals|Swine|GCA_053368215.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|General food and retail|GCA_053376825.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|Chicken products|GCA_053376875.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Food chain|Pork products|GCA_053376925.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9900	Root.13	True
+     Environment|Water and wastewater, 0.9900	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9900	Root.13	True
+     Food chain|Beef products, 0.9883	Root.13	True
+     Food chain|Pork products, 0.9882	Root.13	True
+Food chain|General food and retail|GCA_053376955.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9619	Root.6	True
+Food chain|General food and retail|GCA_053377055.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|General food and retail|GCA_053377255.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053377265.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053406035.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053406955.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Environment|Environmental swabs and sponges|GCA_053406975.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Environment|Sediment and waste|GCA_053407115.1_genomic.fna.gz
+     14, 0.9952	Root.0	False
+Human clinical|Gastrointestinal and urogenital|GCA_053407165.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Human clinical|Blood and tissues|GCA_053407255.1_genomic.fna.gz
+     10, 0.9907	Root.0	False
+Human clinical|Gastrointestinal and urogenital|GCA_053407315.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053407355.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Human clinical|Blood and tissues|GCA_053407375.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Human clinical|Gastrointestinal and urogenital|GCA_053407555.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Human clinical|Blood and tissues|GCA_053407635.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Human clinical|Blood and tissues|GCA_053407755.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Environment|Environmental swabs and sponges|GCA_053407795.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Human clinical|Blood and tissues|GCA_053407905.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9475	Root.12	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9400	Root.12	True
+     Food chain|Pork products, 0.9367	Root.12	True
+     Food chain|Beef products, 0.9367	Root.12	True
+     Environment|Water and wastewater, 0.9093	Root.12	True
+     Food chain|Plant-derived foods, 0.9033	Root.12	True
+Human clinical|Blood and tissues|GCA_053408865.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Food chain|General food and retail|GCA_053408915.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Environment|Sediment and waste|GCA_053408995.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Environment|Sediment and waste|GCA_053409015.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Environment|Sediment and waste|GCA_053409075.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Environment|Environmental swabs and sponges|GCA_053409195.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Human clinical|Blood and tissues|GCA_053409215.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Environment|Environmental swabs and sponges|GCA_053409255.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Human clinical|Blood and tissues|GCA_053409475.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Sediment and waste|GCA_053409555.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Environment|Sediment and waste|GCA_053409695.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Human clinical|Gastrointestinal and urogenital|GCA_053409755.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Human clinical|Blood and tissues|GCA_053409975.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Environment|Sediment and waste|GCA_053410055.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Human clinical|Gastrointestinal and urogenital|GCA_053410075.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9933	Root.11	True
+     Food chain|General food and retail, 0.9900	Root.11	True
+     Environment|Water and wastewater, 0.9900	Root.11	True
+     Human clinical|Gastrointestinal and urogenital, 0.9900	Root.11	True
+Human clinical|Wounds and abscesses|GCA_053410135.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Environmental swabs and sponges|GCA_053410195.1_genomic.fna.gz
+     14, 0.9851	Root.0	False
+Environment|Environmental swabs and sponges|GCA_053410215.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Human clinical|Gastrointestinal and urogenital|GCA_053410415.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Environment|Environmental swabs and sponges|GCA_053410475.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Human clinical|Blood and tissues|GCA_053410535.1_genomic.fna.gz
+     10, 0.9940	Root.0	False
+Environment|Environmental swabs and sponges|GCA_053410655.1_genomic.fna.gz
+     10, 0.9939	Root.0	False
+Food chain|General food and retail|GCA_053411035.1_genomic.fna.gz
+     14, 0.9851	Root.0	False
+Environment|Environmental swabs and sponges|GCA_053411155.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Human clinical|Blood and tissues|GCA_053411175.1_genomic.fna.gz
+     14, 0.9918	Root.0	False
+Food chain|General food and retail|GCA_053411195.1_genomic.fna.gz
+     10|Food chain, 0.9757	Root.0	False
+Human clinical|Blood and tissues|GCA_053411355.1_genomic.fna.gz
+     10, 0.9939	Root.0	False
+Human clinical|Gastrointestinal and urogenital|GCA_053411515.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9475	Root.12	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9400	Root.12	True
+     Food chain|Pork products, 0.9367	Root.12	True
+     Food chain|Beef products, 0.9367	Root.12	True
+     Environment|Water and wastewater, 0.9093	Root.12	True
+     Food chain|Plant-derived foods, 0.9033	Root.12	True
+Food chain|General food and retail|GCA_053411615.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053411715.1_genomic.fna.gz
+     14, 0.9851	Root.0	False
+Environment|Environmental swabs and sponges|GCA_053411815.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Environmental swabs and sponges|GCA_053411835.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Human clinical|Blood and tissues|GCA_053412735.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Human clinical|Gastrointestinal and urogenital|GCA_053412775.1_genomic.fna.gz
+     14, 0.9918	Root.0	False
+Livestock and Other animals|Animal organs and body sites|GCA_053412795.1_genomic.fna.gz
+     10, 0.9939	Root.0	False
+Human clinical|Blood and tissues|GCA_053412915.1_genomic.fna.gz
+     10, 0.9979	Root.0	False
+Human clinical|Wounds and abscesses|GCA_053413055.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCA_053413155.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Food chain|Pork products|GCA_053438085.1_genomic.fna.gz
+     6, 0.9827	Root.0	False
+Food chain|Turkey and duck products|GCA_053438125.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Environment|Water and wastewater|GCA_053438825.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Food chain|General food and retail|GCA_053439025.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Environment|Water and wastewater|GCA_053439185.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Environment|Water and wastewater|GCA_053439865.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Water and wastewater|GCA_053439925.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|General food and retail|GCA_053476095.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Chicken products|GCA_053476115.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Chicken products|GCA_053476195.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Livestock and Other animals|Swine|GCA_053481415.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053481635.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Livestock and Other animals|Cattle|GCA_053481815.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_053481895.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053481935.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|Chicken products|GCA_053503485.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Chicken products|GCA_053503645.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053503685.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|General food and retail|GCA_053503825.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|General food and retail|GCA_053503925.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Pork products|GCA_053504165.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Chicken products|GCA_053504225.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053504385.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Chicken products|GCA_053504405.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|General food and retail|GCA_053504445.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053504575.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Water and wastewater|GCA_053516895.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9619	Root.6	True
+Environment|Water and wastewater|GCA_053516955.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Environment|Sediment and waste|GCA_053519775.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Livestock and Other animals|Animal organs and body sites|GCA_053520015.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Chicken products|GCA_053562595.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Chicken products|GCA_053562715.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|Chicken products|GCA_053562955.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053563015.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053563035.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Environment|Environmental swabs and sponges|GCA_053630855.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Environment|Environmental swabs and sponges|GCA_053630875.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Environment|Environmental swabs and sponges|GCA_053631255.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|General food and retail|GCA_053635275.1_genomic.fna.gz
+     5, 0.9969	Root.0	False
+Food chain|Beef products|GCA_053636135.1_genomic.fna.gz
+     6, 0.9827	Root.0	False
+Livestock and Other animals|Cattle|GCA_053637055.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9475	Root.12	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9400	Root.12	True
+     Food chain|Pork products, 0.9367	Root.12	True
+     Food chain|Beef products, 0.9367	Root.12	True
+     Environment|Water and wastewater, 0.9093	Root.12	True
+     Food chain|Plant-derived foods, 0.9033	Root.12	True
+Environment|Environmental swabs and sponges|GCA_053644515.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Chicken products|GCA_053646335.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053646375.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053646495.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Food chain|Turkey and duck products|GCA_053653795.1_genomic.fna.gz
+     6, 0.9827	Root.0	False
+Food chain|General food and retail|GCA_053653895.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053658135.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Chicken products|GCA_053658715.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053662455.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|General food and retail|GCA_053677955.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|Beef products|GCA_053677995.1_genomic.fna.gz
+     6, 0.9827	Root.0	False
+Food chain|General food and retail|GCA_053678055.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|General food and retail|GCA_053678075.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053681455.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Chicken products|GCA_053681475.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053681515.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053681695.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|General food and retail|GCA_053681915.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Food chain|Chicken products|GCA_053681935.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053682975.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053683015.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053683515.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Food chain|General food and retail|GCA_053688635.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_053697935.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Food chain|General food and retail|GCA_053698925.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053699335.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|Plant-derived foods|GCA_053716455.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Pork products|GCA_053716775.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053717735.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053717755.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053717775.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Pork products|GCA_053717835.1_genomic.fna.gz
+     14, 0.9952	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_053717995.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9475	Root.12	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9400	Root.12	True
+     Food chain|Pork products, 0.9367	Root.12	True
+     Food chain|Beef products, 0.9367	Root.12	True
+     Environment|Water and wastewater, 0.9093	Root.12	True
+     Food chain|Plant-derived foods, 0.9033	Root.12	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053718785.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053718815.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053719295.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053720375.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Livestock and Other animals|Wildlife and other animals|GCA_053720475.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9898	Root.13	True
+     Environment|Water and wastewater, 0.9898	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9898	Root.13	True
+     Food chain|Beef products, 0.9883	Root.13	True
+     Food chain|Pork products, 0.9882	Root.13	True
+Livestock and Other animals|Wildlife and other animals|GCA_053720495.1_genomic.fna.gz
+     10, 0.9964	Root.0	False
+Food chain|Pork products|GCA_053720575.1_genomic.fna.gz
+     14, 0.9952	Root.0	False
+Food chain|Pork products|GCA_053720635.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Seafood and aquatic foods|GCA_053720915.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053721035.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|Beef products|GCA_053721595.1_genomic.fna.gz
+     14, 0.9952	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_053721615.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|Seafood and aquatic foods|GCA_053721655.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053721755.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053721795.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053721835.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053721855.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9475	Root.12	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9400	Root.12	True
+     Food chain|Pork products, 0.9367	Root.12	True
+     Food chain|Beef products, 0.9367	Root.12	True
+     Environment|Water and wastewater, 0.9093	Root.12	True
+     Food chain|Plant-derived foods, 0.9033	Root.12	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053721915.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053722015.1_genomic.fna.gz
+     14, 0.9952	Root.0	False
+Livestock and Other animals|Wildlife and other animals|GCA_053722255.1_genomic.fna.gz
+     14, 0.9918	Root.0	False
+Livestock and Other animals|Wildlife and other animals|GCA_053722415.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Beef products|GCA_053734935.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Food chain|Chicken products|GCA_053735695.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053740355.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|General food and retail|GCA_053740495.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053740545.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Chicken products|GCA_053751995.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Chicken products|GCA_053755415.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Pork products|GCA_053755595.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Pork products|GCA_053755815.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Food chain|Pork products|GCA_053755955.1_genomic.fna.gz
+     10, 0.9939	Root.0	False
+Food chain|Pork products|GCA_053756155.1_genomic.fna.gz
+     12, 0.9826	Root.0	False
+Food chain|Pork products|GCA_053756175.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053766335.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9963	Root.10	True
+Food chain|Chicken products|GCA_053770045.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Chicken products|GCA_053770075.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Livestock and Other animals|Cattle|GCA_053776855.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053776905.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_053778895.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053778935.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|General food and retail|GCA_053785815.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|General food and retail|GCA_053787275.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|Chicken products|GCA_053787295.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Turkey and duck products|GCA_053787375.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|General food and retail|GCA_053789795.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Plant-derived foods|GCA_053804495.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Food chain|Plant-derived foods|GCA_053804535.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Food chain|Plant-derived foods|GCA_053804585.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Food chain|Pork products|GCA_053808885.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Livestock and Other animals|Cattle|GCA_053809075.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053809135.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Cattle|GCA_053809175.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053809235.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053809295.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053809475.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Food chain|General food and retail|GCA_053809975.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Chicken products|GCA_053816405.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Livestock and Other animals|Swine|GCA_053816485.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Livestock and Other animals|Swine|GCA_053816555.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9963	Root.10	True
+Livestock and Other animals|Swine|GCA_053816645.1_genomic.fna.gz
+     14, 0.9851	Root.0	False
+Environment|Environmental swabs and sponges|GCA_053816785.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Food chain|General food and retail|GCA_053817105.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Environment|Sediment and waste|GCA_053832955.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Chicken products|GCA_053833385.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Environment|Sediment and waste|GCA_053835005.1_genomic.fna.gz
+     Human clinical|Blood and tissues, 0.9580	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9580	Root.2	True
+     Food chain|General food and retail, 0.9580	Root.2	True
+     Food chain|Chicken products, 0.9580	Root.2	True
+     Environment|Sediment and waste, 0.9580	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9524	Root.2	True
+Food chain|Chicken products|GCA_053844475.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053844545.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Water and wastewater|GCA_053845725.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Environment|Water and wastewater|GCA_053846125.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9092	Root.12	True
+Food chain|Chicken products|GCA_053875215.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|General food and retail|GCA_053875235.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|General food and retail|GCA_053875435.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Water and wastewater|GCA_053887435.1_genomic.fna.gz
+     10, 0.9964	Root.0	False
+Environment|Environmental swabs and sponges|GCA_053887555.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Environment|Environmental swabs and sponges|GCA_053887815.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Environment|Water and wastewater|GCA_053888375.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Environment|Water and wastewater|GCA_053888435.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Environment|Environmental swabs and sponges|GCA_053889935.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Environment|Water and wastewater|GCA_053894215.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Food chain|General food and retail|GCA_053903695.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|General food and retail|GCA_053903735.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Beef products|GCA_053903755.1_genomic.fna.gz
+     10, 0.9946	Root.0	False
+Food chain|Chicken products|GCA_053903835.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Human clinical|Gastrointestinal and urogenital|GCA_053904635.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Food chain|Beef products|GCA_053909665.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Beef products|GCA_053909845.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053919745.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Livestock and Other animals|Swine|GCA_053919785.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053919825.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_053919865.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_053931365.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Chicken and poultry birds|GCA_053931385.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Livestock and Other animals|Cattle|GCA_053931555.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.8960	Root.10	True
+     Livestock and Other animals|Cattle, 0.8960	Root.10	True
+     Food chain|Turkey and duck products, 0.8959	Root.10	True
+     Food chain|Plant-derived foods, 0.8959	Root.10	True
+     Food chain|Chicken products, 0.8959	Root.10	True
+     Food chain|Beef products, 0.8959	Root.10	True
+     Human clinical|Blood and tissues, 0.8954	Root.10	True
+     Food chain|General food and retail, 0.8944	Root.10	True
+     Food chain|Pork products, 0.8933	Root.10	True
+     Livestock and Other animals|Swine, 0.8900	Root.10	True
+     Livestock and Other animals|Animal organs and body sites, 0.8800	Root.10	True
+Food chain|Pork products|GCA_053957075.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|Chicken products|GCA_053957115.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|General food and retail|GCA_053957255.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Food chain|Turkey and duck products|GCA_053957275.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Food chain|General food and retail|GCA_053957415.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCA_053972275.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|General food and retail|GCA_053972715.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_053973415.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|General food and retail|GCA_053973475.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|General food and retail|GCA_053973495.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Livestock and Other animals|Animal organs and body sites|GCA_053973755.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Animal organs and body sites|GCA_053973915.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Human clinical|Blood and tissues|GCA_053973955.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Livestock and Other animals|Animal organs and body sites|GCA_053973955.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Food chain|Pork products|GCA_053974175.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9900	Root.13	True
+     Environment|Water and wastewater, 0.9900	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9900	Root.13	True
+     Food chain|Beef products, 0.9894	Root.13	True
+     Food chain|Pork products, 0.9882	Root.13	True
+Environment|Water and wastewater|GCA_053981135.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9475	Root.12	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9400	Root.12	True
+     Food chain|Pork products, 0.9367	Root.12	True
+     Food chain|Beef products, 0.9367	Root.12	True
+     Environment|Water and wastewater, 0.9093	Root.12	True
+     Food chain|Plant-derived foods, 0.9033	Root.12	True
+Environment|Water and wastewater|GCA_053981735.1_genomic.fna.gz
+     6, 0.9827	Root.0	False
+Food chain|Chicken products|GCA_053981795.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Water and wastewater|GCA_053981895.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9475	Root.12	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9400	Root.12	True
+     Food chain|Pork products, 0.9367	Root.12	True
+     Food chain|Beef products, 0.9367	Root.12	True
+     Environment|Water and wastewater, 0.9093	Root.12	True
+     Food chain|Plant-derived foods, 0.9033	Root.12	True
+Environment|Water and wastewater|GCA_053981935.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Environment|Water and wastewater|GCA_053981995.1_genomic.fna.gz
+     10, 0.9964	Root.0	False
+Food chain|General food and retail|GCA_053982515.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|Chicken products|GCA_053982575.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Water and wastewater|GCA_053982735.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Food chain|Plant-derived foods|GCA_054025395.1_genomic.fna.gz
+     6, 0.9947	Root.0	False
+Food chain|Plant-derived foods|GCA_054025515.1_genomic.fna.gz
+     6, 0.9827	Root.0	False
+Food chain|Beef products|GCA_054065805.1_genomic.fna.gz
+     12, 0.9826	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_054065935.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Livestock and Other animals|Chicken and poultry birds|GCA_054071655.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCA_054071855.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Pork products|GCA_054072105.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Food chain|General food and retail|GCA_054072155.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCA_054072475.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9922	Root.15	True
+     Food chain|General food and retail, 0.9922	Root.15	True
+     Food chain|Chicken products, 0.9922	Root.15	True
+Environment|Water and wastewater|GCA_054086205.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Environment|Water and wastewater|GCA_054086445.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9092	Root.12	True
+Environment|Water and wastewater|GCA_054086485.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9475	Root.12	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9400	Root.12	True
+     Food chain|Pork products, 0.9367	Root.12	True
+     Food chain|Beef products, 0.9367	Root.12	True
+     Environment|Water and wastewater, 0.9093	Root.12	True
+     Food chain|Plant-derived foods, 0.9033	Root.12	True
+Food chain|Beef products|GCA_054087905.1_genomic.fna.gz
+     6, 0.9827	Root.0	False
+Environment|Water and wastewater|GCA_054088545.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Environment|Water and wastewater|GCA_054089025.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Environment|Water and wastewater|GCA_054089055.1_genomic.fna.gz
+     Food chain|Pork products, 0.9951	Root.13	True
+     Food chain|Beef products, 0.9951	Root.13	True
+     Environment|Sediment and waste, 0.9951	Root.13	True
+     Environment|Water and wastewater, 0.9951	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.13	True
+Food chain|General food and retail|GCA_054089345.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Animal organs and body sites|GCA_054099425.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Animal organs and body sites|GCA_054099545.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Animal organs and body sites|GCA_054100065.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Animal organs and body sites|GCA_054100085.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Animal organs and body sites|GCA_054100145.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Water and wastewater|GCA_054100975.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Environment|Water and wastewater|GCA_054101035.1_genomic.fna.gz
+     10, 0.9979	Root.0	False
+Environment|Water and wastewater|GCA_054101315.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Environment|Water and wastewater|GCA_054101335.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Environment|Water and wastewater|GCA_054101355.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Environment|Water and wastewater|GCA_054101635.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Environment|Water and wastewater|GCA_054101695.1_genomic.fna.gz
+     10, 0.9979	Root.0	False
+Environment|Water and wastewater|GCA_054102415.1_genomic.fna.gz
+     10, 0.9979	Root.0	False
+Environment|Water and wastewater|GCA_054103025.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Human clinical|Wounds and abscesses|GCA_054103305.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Environment|Water and wastewater|GCA_054103605.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9963	Root.10	True
+Environment|Water and wastewater|GCA_054103625.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9963	Root.10	True
+Environment|Water and wastewater|GCA_054103865.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Environment|Water and wastewater|GCA_054104125.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Environment|Water and wastewater|GCA_054105025.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9963	Root.10	True
+Environment|Water and wastewater|GCA_054105245.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.9688	Root.7	True
+     Environment|Sediment and waste, 0.9688	Root.7	True
+Environment|Water and wastewater|GCA_054105305.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9475	Root.12	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9400	Root.12	True
+     Food chain|Pork products, 0.9367	Root.12	True
+     Food chain|Beef products, 0.9367	Root.12	True
+     Environment|Water and wastewater, 0.9093	Root.12	True
+     Food chain|Plant-derived foods, 0.9033	Root.12	True
+Environment|Water and wastewater|GCF_000487215.2_genomic.fna.gz
+     10, 0.9964	Root.0	False
+Livestock and Other animals|Companion animals|GCF_038020335.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Environment|Sediment and waste|GCF_038396455.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|Chicken products|GCF_040048365.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Environment|Sediment and waste|GCF_040822485.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9715	Root.9	True
+     Livestock and Other animals|Cattle, 0.9715	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9715	Root.9	True
+     Environment|Water and wastewater, 0.9715	Root.9	True
+     Environment|Sediment and waste, 0.9715	Root.9	True
+     Food chain|Chicken products, 0.9715	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9715	Root.9	True
+     Food chain|Beef products, 0.9715	Root.9	True
+     Food chain|Plant-derived foods, 0.9715	Root.9	True
+     Food chain|General food and retail, 0.9715	Root.9	True
+     Food chain|Turkey and duck products, 0.9715	Root.9	True
+Environment|Sediment and waste|GCF_040822515.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9696	Root.3	True
+     Food chain|Pork products, 0.9696	Root.3	True
+     Food chain|Chicken products, 0.9696	Root.3	True
+     Food chain|General food and retail, 0.9696	Root.3	True
+     Environment|Environmental swabs and sponges, 0.9696	Root.3	True
+Environment|Sediment and waste|GCF_040895365.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.8927	Root.14	True
+     Human clinical|Blood and tissues, 0.8927	Root.14	True
+Environment|Sediment and waste|GCF_040956495.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Environment|Sediment and waste|GCF_040956555.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Food chain|Chicken products|GCF_041411125.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Food chain|Chicken products|GCF_041411325.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Livestock and Other animals|Chicken and poultry birds|GCF_041447675.1_genomic.fna.gz
+     5, 0.9954	Root.0	False
+Livestock and Other animals|Companion animals|GCF_041927295.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Companion animals|GCF_041930315.1_genomic.fna.gz
+     14, 0.9952	Root.0	False
+Livestock and Other animals|Companion animals|GCF_041930345.1_genomic.fna.gz
+     14, 0.9952	Root.0	False
+Livestock and Other animals|Companion animals|GCF_041930355.1_genomic.fna.gz
+     Human clinical|Blood and tissues, 0.9015	Root.10	True
+     Food chain|General food and retail, 0.8823	Root.10	True
+     Food chain|Turkey and duck products, 0.8823	Root.10	True
+     Environment|Water and wastewater, 0.8817	Root.10	True
+     Environment|Sediment and waste, 0.8817	Root.10	True
+     Food chain|Plant-derived foods, 0.8800	Root.10	True
+     Food chain|Pork products, 0.8800	Root.10	True
+     Food chain|Chicken products, 0.8800	Root.10	True
+     Food chain|Beef products, 0.8800	Root.10	True
+     Environment|Environmental swabs and sponges, 0.8787	Root.10	True
+Food chain|Mixed, processed, and specialty foods|GCF_041941485.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|Chicken products|GCF_041941525.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Animal organs and body sites|GCF_046599165.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Environment|Water and wastewater|GCF_048256985.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Environment|Water and wastewater|GCF_048257125.1_genomic.fna.gz
+     Environment|Water and wastewater, 0.8634	Root.11	True
+Food chain|General food and retail|GCF_048296785.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCF_048296815.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Livestock and Other animals|Wildlife and other animals|GCF_049264755.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Human clinical|Gastrointestinal and urogenital|GCF_049617965.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9898	Root.13	True
+     Environment|Water and wastewater, 0.9898	Root.13	True
+     Environment|Environmental swabs and sponges, 0.9898	Root.13	True
+     Food chain|Beef products, 0.9883	Root.13	True
+     Food chain|Pork products, 0.9882	Root.13	True
+Human clinical|Gastrointestinal and urogenital|GCF_049619935.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Human clinical|Blood and tissues|GCF_049672895.1_genomic.fna.gz
+     10, 0.9977	Root.0	False
+Food chain|Chicken products|GCF_049860555.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Livestock and Other animals|Swine|GCF_050263195.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Swine|GCF_050859275.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Livestock and Other animals|Animal organs and body sites|GCF_051904745.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Human clinical|Gastrointestinal and urogenital|GCF_053048045.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Human clinical|Wounds and abscesses|GCF_053211155.1_genomic.fna.gz
+     10, 0.9632	Root.0	False
+Human clinical|Wounds and abscesses|GCF_053211235.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9523	Root.2	True
+     Human clinical|Blood and tissues, 0.9523	Root.2	True
+     Human clinical|Gastrointestinal and urogenital, 0.9523	Root.2	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9523	Root.2	True
+     Food chain|General food and retail, 0.9523	Root.2	True
+     Food chain|Chicken products, 0.9523	Root.2	True
+Environment|Sediment and waste|GCF_053220415.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCF_053232545.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Water and wastewater|GCF_053258655.1_genomic.fna.gz
+     14, 0.9851	Root.0	False
+Environment|Sediment and waste|GCF_053273555.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCF_053273735.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCF_053273775.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCF_053273835.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCF_053274075.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCF_053274415.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Environment|Sediment and waste|GCF_053274435.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Human clinical|Blood and tissues|GCF_053283235.1_genomic.fna.gz
+     Environment|Sediment and waste, 0.9951	Root.4	True
+     Environment|Environmental swabs and sponges, 0.9951	Root.4	True
+     Environment|Water and wastewater, 0.9951	Root.4	True
+     Food chain|General food and retail, 0.9951	Root.4	True
+     Food chain|Seafood and aquatic foods, 0.9951	Root.4	True
+     Food chain|Chicken products, 0.9951	Root.4	True
+Food chain|Plant-derived foods|GCF_053338755.1_genomic.fna.gz
+     10, 0.9940	Root.0	False
+Livestock and Other animals|Chicken and poultry birds|GCF_053361435.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Livestock and Other animals|Chicken and poultry birds|GCF_053362055.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Livestock and Other animals|Chicken and poultry birds|GCF_053362075.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Livestock and Other animals|Chicken and poultry birds|GCF_053362455.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Livestock and Other animals|Chicken and poultry birds|GCF_053362495.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Livestock and Other animals|Chicken and poultry birds|GCF_053362515.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Livestock and Other animals|Chicken and poultry birds|GCF_053362535.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Livestock and Other animals|Chicken and poultry birds|GCF_053362615.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Livestock and Other animals|Chicken and poultry birds|GCF_053363135.1_genomic.fna.gz
+     Livestock and Other animals|Chicken and poultry birds, 0.9691	Root.1	True
+     Food chain|Plant-derived foods, 0.9691	Root.1	True
+     Environment|Sediment and waste, 0.9691	Root.1	True
+     Human clinical|Blood and tissues, 0.9691	Root.1	True
+Environment|Water and wastewater|GCF_053757435.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Environment|Water and wastewater|GCF_053757455.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Human clinical|Gastrointestinal and urogenital|GCF_053757595.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Human clinical|Gastrointestinal and urogenital|GCF_053757955.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Human clinical|Gastrointestinal and urogenital|GCF_053757975.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Human clinical|Gastrointestinal and urogenital|GCF_053758025.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Human clinical|Gastrointestinal and urogenital|GCF_053758085.1_genomic.fna.gz
+     Livestock and Other animals|Animal organs and body sites, 0.9724	Root.9	True
+     Livestock and Other animals|Cattle, 0.9724	Root.9	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9724	Root.9	True
+     Environment|Water and wastewater, 0.9724	Root.9	True
+     Environment|Sediment and waste, 0.9724	Root.9	True
+     Food chain|Chicken products, 0.9724	Root.9	True
+     Food chain|Seafood and aquatic foods, 0.9724	Root.9	True
+     Food chain|Beef products, 0.9724	Root.9	True
+     Food chain|Plant-derived foods, 0.9724	Root.9	True
+     Food chain|General food and retail, 0.9724	Root.9	True
+     Food chain|Turkey and duck products, 0.9724	Root.9	True
+Human clinical|Gastrointestinal and urogenital|GCF_053758305.1_genomic.fna.gz
+     Human clinical|Gastrointestinal and urogenital, 0.9706	Root.8	True
+     Human clinical|Wounds and abscesses, 0.9706	Root.8	True
+     Human clinical|Blood and tissues, 0.9706	Root.8	True
+     Livestock and Other animals|Swine, 0.9706	Root.8	True
+     Livestock and Other animals|Chicken and poultry birds, 0.9706	Root.8	True
+     Livestock and Other animals|Animal organs and body sites, 0.9706	Root.8	True
+     Environment|Water and wastewater, 0.9706	Root.8	True
+     Environment|Environmental swabs and sponges, 0.9706	Root.8	True
+     Environment|Sediment and waste, 0.9706	Root.8	True
+     Food chain|Turkey and duck products, 0.9706	Root.8	True
+     Food chain|Pork products, 0.9706	Root.8	True
+     Food chain|General food and retail, 0.9706	Root.8	True
+     Food chain|Chicken products, 0.9706	Root.8	True
+Food chain|General food and retail|GCF_053834635.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCF_053834675.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCF_053834725.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCF_053834735.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCF_053834785.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCF_053834795.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCF_053834805.1_genomic.fna.gz
+     5, 0.9970	Root.0	False
+Food chain|General food and retail|GCF_053834835.1_genomic.fna.gz
+     5, 0.9970	Root.0	False

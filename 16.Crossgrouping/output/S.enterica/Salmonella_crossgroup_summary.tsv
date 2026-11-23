@@ -1,0 +1,36 @@
+﻿top_cluster	cross_group	genome_count	number_of_terminal_predictions	cross_identified_categories
+0	CrossGroup_1	447	0	Not identified
+0	CrossGroup_2	52	4	Environment|Sediment and waste ; Food chain|Pork products ; Human clinical|Blood and tissues ; Human clinical|Gastrointestinal and urogenital
+0	CrossGroup_3	50	13	Environment|Environmental swabs and sponges ; Environment|Sediment and waste ; Environment|Water and wastewater ; Food chain|Chicken products ; Food chain|General food and retail ; Food chain|Pork products ; Food chain|Turkey and duck products ; Human clinical|Blood and tissues ; Human clinical|Gastrointestinal and urogenital ; Human clinical|Wounds and abscesses ; Livestock and Other animals|Animal organs and body sites ; Livestock and Other animals|Chicken and poultry birds ; Livestock and Other animals|Swine
+0	CrossGroup_4	13	1	Livestock and Other animals|Chicken and poultry birds
+0	CrossGroup_5	1	6	Environment|Sediment and waste ; Food chain|Chicken products ; Food chain|General food and retail ; Human clinical|Blood and tissues ; Human clinical|Gastrointestinal and urogenital ; Livestock and Other animals|Chicken and poultry birds
+1	CrossGroup_1	88	4	Environment|Sediment and waste ; Food chain|Plant-derived foods ; Human clinical|Blood and tissues ; Livestock and Other animals|Chicken and poultry birds
+2	CrossGroup_1	240	6	Environment|Sediment and waste ; Food chain|Chicken products ; Food chain|General food and retail ; Human clinical|Blood and tissues ; Human clinical|Gastrointestinal and urogenital ; Livestock and Other animals|Chicken and poultry birds
+3	CrossGroup_1	94	5	Environment|Environmental swabs and sponges ; Food chain|Chicken products ; Food chain|General food and retail ; Food chain|Pork products ; Livestock and Other animals|Chicken and poultry birds
+4	CrossGroup_1	58	6	Environment|Environmental swabs and sponges ; Environment|Sediment and waste ; Environment|Water and wastewater ; Food chain|Chicken products ; Food chain|General food and retail ; Food chain|Seafood and aquatic foods
+5	CrossGroup_1	325	0	Not identified
+5	CrossGroup_2	1	1	Human clinical|Gastrointestinal and urogenital
+6	CrossGroup_1	51	0	Not identified
+6	CrossGroup_2	11	1	Environment|Water and wastewater
+7	CrossGroup_1	49	2	Environment|Sediment and waste ; Environment|Water and wastewater
+8	CrossGroup_1	286	13	Environment|Environmental swabs and sponges ; Environment|Sediment and waste ; Environment|Water and wastewater ; Food chain|Chicken products ; Food chain|General food and retail ; Food chain|Pork products ; Food chain|Turkey and duck products ; Human clinical|Blood and tissues ; Human clinical|Gastrointestinal and urogenital ; Human clinical|Wounds and abscesses ; Livestock and Other animals|Animal organs and body sites ; Livestock and Other animals|Chicken and poultry birds ; Livestock and Other animals|Swine
+9	CrossGroup_1	160	11	Environment|Sediment and waste ; Environment|Water and wastewater ; Food chain|Beef products ; Food chain|Chicken products ; Food chain|General food and retail ; Food chain|Plant-derived foods ; Food chain|Seafood and aquatic foods ; Food chain|Turkey and duck products ; Livestock and Other animals|Animal organs and body sites ; Livestock and Other animals|Cattle ; Livestock and Other animals|Chicken and poultry birds
+10	CrossGroup_1	149	0	Not identified
+10	CrossGroup_2	14	1	Environment|Water and wastewater
+10	CrossGroup_3	2	1	Environment|Environmental swabs and sponges
+10	CrossGroup_4	1	10	Environment|Environmental swabs and sponges ; Environment|Sediment and waste ; Environment|Water and wastewater ; Food chain|Beef products ; Food chain|Chicken products ; Food chain|General food and retail ; Food chain|Plant-derived foods ; Food chain|Pork products ; Food chain|Turkey and duck products ; Human clinical|Blood and tissues
+10	CrossGroup_5	1	11	Food chain|Beef products ; Food chain|Chicken products ; Food chain|General food and retail ; Food chain|Plant-derived foods ; Food chain|Pork products ; Food chain|Turkey and duck products ; Human clinical|Blood and tissues ; Livestock and Other animals|Animal organs and body sites ; Livestock and Other animals|Cattle ; Livestock and Other animals|Chicken and poultry birds ; Livestock and Other animals|Swine
+11	CrossGroup_1	49	1	Environment|Water and wastewater
+11	CrossGroup_2	2	4	Environment|Water and wastewater ; Food chain|General food and retail ; Human clinical|Gastrointestinal and urogenital ; Livestock and Other animals|Animal organs and body sites
+12	CrossGroup_1	36	6	Environment|Water and wastewater ; Food chain|Beef products ; Food chain|Plant-derived foods ; Food chain|Pork products ; Human clinical|Gastrointestinal and urogenital ; Livestock and Other animals|Chicken and poultry birds
+12	CrossGroup_2	11	0	Not identified
+12	CrossGroup_3	10	1	Environment|Water and wastewater
+12	CrossGroup_4	5	1	Environment|Sediment and waste
+12	CrossGroup_5	5	3	Food chain|Beef products ; Food chain|Plant-derived foods ; Food chain|Pork products
+12	CrossGroup_6	5	1	Livestock and Other animals|Chicken and poultry birds
+13	CrossGroup_1	65	5	Environment|Environmental swabs and sponges ; Environment|Sediment and waste ; Environment|Water and wastewater ; Food chain|Beef products ; Food chain|Pork products
+13	CrossGroup_2	1	3	Environment|Environmental swabs and sponges ; Environment|Sediment and waste ; Environment|Water and wastewater
+14	CrossGroup_1	51	0	Not identified
+14	CrossGroup_2	2	2	Human clinical|Blood and tissues ; Human clinical|Gastrointestinal and urogenital
+14	CrossGroup_3	1	7	Environment|Sediment and waste ; Food chain|Pork products ; Human clinical|Blood and tissues ; Human clinical|Gastrointestinal and urogenital ; Livestock and Other animals|Chicken and poultry birds ; Livestock and Other animals|Companion animals ; Livestock and Other animals|Swine
+15	CrossGroup_1	72	3	Food chain|Chicken products ; Food chain|General food and retail ; Livestock and Other animals|Chicken and poultry birds

@@ -1,0 +1,47 @@
+=== META-SELECTOR RECOMMENDATION ===
+Input:            input\Salmonella\core_snps_digit_matrix_filtered.csv
+Matrix shape:     100 x 35838
+Label delimiter:  '|'
+Label levels:     2
+Task:             auto
+Units:            binary
+Dataset size:     small
+Square distances: False
+
+Known-label cluster validation:
+  Silhouette:         higher is better (-1 to 1)
+  Calinski-Harabasz:  higher is better
+  Davies-Bouldin:     lower is better (0 is ideal)
+  Level 1:
+    samples used:       100
+    groups:             4
+    Silhouette:         -0.030315
+    Calinski-Harabasz:  1.687546
+    Davies-Bouldin:     6.603975
+  Level 2:
+    samples used:       100
+    groups:             20
+    Silhouette:         -0.151334
+    Calinski-Harabasz:  1.509089
+    Davies-Bouldin:     3.239372
+
+Best algorithm:
+  HDBSCAN
+
+Why selected:
+  - Binary genomics/metagenomics matrices often contain noise and missing calls.
+  - HDBSCAN handles variable-density clusters and labels ambiguous items as noise without choosing k.
+
+Recommended parameters:
+  hdbscan_metric: jaccard (or precomputed)
+  min_cluster_size: 10
+  min_samples: 5
+
+Example run command:
+py run.py Salmonella core_snps_digit_matrix_filtered.csv HDBSCAN --hdbscan_metric jaccard --min_cluster_size 10 --min_samples 5 --output_format all
+
+Good alternatives (if needed):
+  - DBSCAN (if eps can be tuned)
+  - AGGLO (tree) on Jaccard
+  - SA (fixed-k partitions)
+===================================
