@@ -4,7 +4,7 @@
 
 **Release:** `v1.0.0-beta` · **Status:** Beta
 
-> **Scope:** Initial ecological categories may be inferred from metadata or unsupervised clustering. Subsequent supervised models are trained against these derived labels; they should not be interpreted as independently verified biological ground truth.
+> **Scope:** Initial ecological categories may be inferred through keyword seaerch in metadata, while phylogenetic grouping is performed by unsupervised clustering. Subsequent supervised models are trained against these derived labels; they should not be interpreted as independently verified biological ground truth.
 
 ## Contents
 
@@ -35,7 +35,7 @@
 | 15 | `Testing` | `tester.py`, `per_cluster_statistics.py`, `model_reader.py` | Evaluate and inspect trained models |
 | 16 *(optional refinement)* | `Crossgrouping` | `crossgrouping.py` | Add cross-identification groups |
 
-> Folder names above reproduce the supplied names, including `ReferenceSelectionByKyewords` and `Grossgrouping`. Actual numbered directory prefixes were not provided. Run commands from the respective step directory, or supply its path explicitly. Steps 6 and 11 use the same clustering programs in separate passes.
+> Folder names above reproduce the supplied names, including `ReferenceSelectionByKyewords` and `Crossgrouping`. Actual numbered directory prefixes were not provided. Run commands from the respective step directory, or supply its path explicitly.
 
 ## Installation and dependencies
 
@@ -74,7 +74,7 @@ The table distinguishes **directly visible imports** from **documented or likely
 | 10 | `filter_insensitive_features.py` | None in supplied imports | Standard library |
 | 12 | `hypothesis_testing.py` | `numpy`, `pandas`, `scipy`, `scikit-learn`; plot generation suggests `matplotlib` | — |
 | 13 | `split_dataset.py` | None in supplied imports | Standard library |
-| 14 | `model_selector.py`, `run.py` | `numpy`, `pandas`, `scikit-learn` | Local selector/model/bundle modules; XGBoost options are exposed, but installation/use of `xgboost` is not established by supplied imports |
+| 14 | `model_selector.py`, `run.py` | `numpy`, `pandas`, `scikit-learn`, `xgboost` | Local selector/model/bundle modules;  |
 | 15 | `tester.py`, `per_cluster_statistics.py` | `numpy`, `pandas`; model loading may require `scikit-learn` and training-time dependencies; plotting may require `matplotlib` | Compatible local bundle classes are essential |
 | 15 | `model_reader.py` | No third-party direct imports shown; model unpickling may need training-time dependencies | Requires compatible bundle definition |
 | 16 | `crossgrouping.py` | None in supplied imports | Standard library |
@@ -97,17 +97,17 @@ tmp/
   MyProject/
 ```
 
-Some steps expect files to be copied from an earlier step's `output/MyProject/` into the next step's `input/MyProject/`. This README does **not** assume automatic inter-step file transfer.
+Many steps expect files to be copied from an earlier step's `output/MyProject/` into the next step's `input/MyProject/`.
 
 Hierarchical matrix row identifiers generally follow:
 
 ```text
-Category1|Category2|GenomicCluster|GenomeID
+GenomicCluster|Category|Sub-Category|GenomeID
 ```
 
 The final field is the genome/sample identifier; preceding fields are hierarchy labels. **Check each script's level numbering:** Steps 5 and 12 interpret levels according to their own documented rules, and Step 12 counts hierarchy levels from the *bottom*.
 
-Use a consistent delimiter (`|` by default), stable genome identifiers, and matching feature columns across training and testing. Examples below use placeholder file names where exact output naming cannot be verified from the supplied code.
+Use a consistent delimiter (`|` by default), stable genome identifiers, and matching feature columns across training and testing. Examples below use placeholder file names. Input file names usually are inherited for output naming.
 
 ## Pipeline steps
 
