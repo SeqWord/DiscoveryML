@@ -1,0 +1,101 @@
+sample_id	gbff_file	location
+S0001	GCA_053410235.1_genomic.gbff.gz	Environment>Environmental swabs and sponges
+S0002	GCA_053410975.1_genomic.gbff.gz	Environment>Environmental swabs and sponges
+S0003	GCA_053411835.1_genomic.gbff.gz	Environment>Environmental swabs and sponges
+S0004	GCA_053887555.1_genomic.gbff.gz	Environment>Environmental swabs and sponges
+S0005	GCA_053889375.1_genomic.gbff.gz	Environment>Environmental swabs and sponges
+S0006	GCA_053413035.1_genomic.gbff.gz	Environment>Sediment and waste
+S0007	GCA_053832955.1_genomic.gbff.gz	Environment>Sediment and waste
+S0008	GCA_053834985.1_genomic.gbff.gz	Environment>Sediment and waste
+S0009	GCF_040896175.1_genomic.gbff.gz	Environment>Sediment and waste
+S0010	GCF_053273635.1_genomic.gbff.gz	Environment>Sediment and waste
+S0011	GCA_053168875.1_genomic.gbff.gz	Environment>Water and wastewater
+S0012	GCA_053281235.1_genomic.gbff.gz	Environment>Water and wastewater
+S0013	GCA_053438885.1_genomic.gbff.gz	Environment>Water and wastewater
+S0014	GCA_053894175.1_genomic.gbff.gz	Environment>Water and wastewater
+S0015	GCA_054089095.1_genomic.gbff.gz	Environment>Water and wastewater
+S0016	GCA_053296395.1_genomic.gbff.gz	Food chain>Beef products
+S0017	GCA_053438105.1_genomic.gbff.gz	Food chain>Beef products
+S0018	GCA_053503525.1_genomic.gbff.gz	Food chain>Beef products
+S0019	GCA_053678155.1_genomic.gbff.gz	Food chain>Beef products
+S0020	GCA_053809695.1_genomic.gbff.gz	Food chain>Beef products
+S0021	GCA_053303075.1_genomic.gbff.gz	Food chain>Chicken products
+S0022	GCA_053680855.1_genomic.gbff.gz	Food chain>Chicken products
+S0023	GCA_053787075.1_genomic.gbff.gz	Food chain>Chicken products
+S0024	GCA_053882335.1_genomic.gbff.gz	Food chain>Chicken products
+S0025	GCF_047980805.2_genomic.gbff.gz	Food chain>Chicken products
+S0026	GCA_053658135.1_genomic.gbff.gz	Food chain>General food and retail
+S0027	GCA_053721555.1_genomic.gbff.gz	Food chain>General food and retail
+S0028	GCA_053756595.1_genomic.gbff.gz	Food chain>General food and retail
+S0029	GCA_053970215.1_genomic.gbff.gz	Food chain>General food and retail
+S0030	GCF_053834715.1_genomic.gbff.gz	Food chain>General food and retail
+S0031	GCA_006674765.2_genomic.gbff.gz	Food chain>Mixed, processed, and specialty foods
+S0032	GCA_041088805.2_genomic.gbff.gz	Food chain>Mixed, processed, and specialty foods
+S0033	GCA_053644455.1_genomic.gbff.gz	Food chain>Mixed, processed, and specialty foods
+S0034	GCF_037099745.1_genomic.gbff.gz	Food chain>Mixed, processed, and specialty foods
+S0035	GCF_041941485.1_genomic.gbff.gz	Food chain>Mixed, processed, and specialty foods
+S0036	GCA_053804445.1_genomic.gbff.gz	Food chain>Plant-derived foods
+S0037	GCA_053805505.1_genomic.gbff.gz	Food chain>Plant-derived foods
+S0038	GCA_053805575.1_genomic.gbff.gz	Food chain>Plant-derived foods
+S0039	GCA_054024205.1_genomic.gbff.gz	Food chain>Plant-derived foods
+S0040	GCA_054026735.1_genomic.gbff.gz	Food chain>Plant-derived foods
+S0041	GCA_008425845.2_genomic.gbff.gz	Food chain>Pork products
+S0042	GCA_053756135.1_genomic.gbff.gz	Food chain>Pork products
+S0043	GCA_053756315.1_genomic.gbff.gz	Food chain>Pork products
+S0044	GCA_053756535.1_genomic.gbff.gz	Food chain>Pork products
+S0045	GCA_054066075.1_genomic.gbff.gz	Food chain>Pork products
+S0046	GCA_046272055.1_genomic.gbff.gz	Food chain>Seafood and aquatic foods
+S0047	GCA_053118515.2_genomic.gbff.gz	Food chain>Seafood and aquatic foods
+S0048	GCA_053720835.1_genomic.gbff.gz	Food chain>Seafood and aquatic foods
+S0049	GCA_053720935.1_genomic.gbff.gz	Food chain>Seafood and aquatic foods
+S0050	GCA_053721655.1_genomic.gbff.gz	Food chain>Seafood and aquatic foods
+S0051	GCA_053214125.1_genomic.gbff.gz	Food chain>Turkey and duck products
+S0052	GCA_053227985.1_genomic.gbff.gz	Food chain>Turkey and duck products
+S0053	GCA_053296915.1_genomic.gbff.gz	Food chain>Turkey and duck products
+S0054	GCA_053406055.1_genomic.gbff.gz	Food chain>Turkey and duck products
+S0055	GCA_053630515.1_genomic.gbff.gz	Food chain>Turkey and duck products
+S0056	GCA_053161375.1_genomic.gbff.gz	Human clinical>Blood and tissues
+S0057	GCA_053161475.1_genomic.gbff.gz	Human clinical>Blood and tissues
+S0058	GCA_053161655.1_genomic.gbff.gz	Human clinical>Blood and tissues
+S0059	GCA_053161855.1_genomic.gbff.gz	Human clinical>Blood and tissues
+S0060	GCA_053908445.1_genomic.gbff.gz	Human clinical>Blood and tissues
+S0061	GCA_053410415.1_genomic.gbff.gz	Human clinical>Gastrointestinal and urogenital
+S0062	GCA_053412695.1_genomic.gbff.gz	Human clinical>Gastrointestinal and urogenital
+S0063	GCA_053811595.1_genomic.gbff.gz	Human clinical>Gastrointestinal and urogenital
+S0064	GCF_053757655.1_genomic.gbff.gz	Human clinical>Gastrointestinal and urogenital
+S0065	GCF_053981035.1_genomic.gbff.gz	Human clinical>Gastrointestinal and urogenital
+S0066	GCA_053410135.1_genomic.gbff.gz	Human clinical>Wounds and abscesses
+S0067	GCA_053410695.1_genomic.gbff.gz	Human clinical>Wounds and abscesses
+S0068	GCA_053410895.1_genomic.gbff.gz	Human clinical>Wounds and abscesses
+S0069	GCA_053413055.1_genomic.gbff.gz	Human clinical>Wounds and abscesses
+S0070	GCA_053973935.1_genomic.gbff.gz	Human clinical>Wounds and abscesses
+S0071	GCA_053280135.1_genomic.gbff.gz	Livestock and Other animals>Animal organs and body sites
+S0072	GCA_053280155.1_genomic.gbff.gz	Livestock and Other animals>Animal organs and body sites
+S0073	GCA_053281635.1_genomic.gbff.gz	Livestock and Other animals>Animal organs and body sites
+S0074	GCA_053973815.1_genomic.gbff.gz	Livestock and Other animals>Animal organs and body sites
+S0075	GCF_046599165.1_genomic.gbff.gz	Livestock and Other animals>Animal organs and body sites
+S0076	GCA_053368235.1_genomic.gbff.gz	Livestock and Other animals>Cattle
+S0077	GCA_053775895.1_genomic.gbff.gz	Livestock and Other animals>Cattle
+S0078	GCA_053776895.1_genomic.gbff.gz	Livestock and Other animals>Cattle
+S0079	GCA_053877275.1_genomic.gbff.gz	Livestock and Other animals>Cattle
+S0080	GCA_053919605.1_genomic.gbff.gz	Livestock and Other animals>Cattle
+S0081	GCA_053278775.1_genomic.gbff.gz	Livestock and Other animals>Chicken and poultry birds
+S0082	GCA_053408095.1_genomic.gbff.gz	Livestock and Other animals>Chicken and poultry birds
+S0083	GCA_053683015.1_genomic.gbff.gz	Livestock and Other animals>Chicken and poultry birds
+S0084	GCA_053719935.1_genomic.gbff.gz	Livestock and Other animals>Chicken and poultry birds
+S0085	GCA_053931385.1_genomic.gbff.gz	Livestock and Other animals>Chicken and poultry birds
+S0086	GCF_041927295.1_genomic.gbff.gz	Livestock and Other animals>Companion animals
+S0087	GCF_041927315.1_genomic.gbff.gz	Livestock and Other animals>Companion animals
+S0088	GCF_041927325.1_genomic.gbff.gz	Livestock and Other animals>Companion animals
+S0089	GCF_041930295.1_genomic.gbff.gz	Livestock and Other animals>Companion animals
+S0090	GCF_041930325.1_genomic.gbff.gz	Livestock and Other animals>Companion animals
+S0091	GCA_053368215.1_genomic.gbff.gz	Livestock and Other animals>Swine
+S0092	GCA_053816345.1_genomic.gbff.gz	Livestock and Other animals>Swine
+S0093	GCA_053877315.1_genomic.gbff.gz	Livestock and Other animals>Swine
+S0094	GCA_054088765.1_genomic.gbff.gz	Livestock and Other animals>Swine
+S0095	GCA_054104225.1_genomic.gbff.gz	Livestock and Other animals>Swine
+S0096	GCA_053155315.1_genomic.gbff.gz	Livestock and Other animals>Wildlife and other animals
+S0097	GCA_053155435.1_genomic.gbff.gz	Livestock and Other animals>Wildlife and other animals
+S0098	GCA_053722255.1_genomic.gbff.gz	Livestock and Other animals>Wildlife and other animals
+S0099	GCA_053722415.1_genomic.gbff.gz	Livestock and Other animals>Wildlife and other animals
+S0100	GCF_048914415.1_genomic.gbff.gz	Livestock and Other animals>Wildlife and other animals

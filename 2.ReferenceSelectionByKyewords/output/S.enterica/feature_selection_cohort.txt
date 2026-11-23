@@ -1,0 +1,100 @@
+Environment|Environmental swabs and sponges|GCA_053409495.1_genomic.fna.gz
+Environment|Environmental swabs and sponges|GCA_053406935.1_genomic.fna.gz
+Environment|Environmental swabs and sponges|GCA_053407055.1_genomic.fna.gz
+Environment|Environmental swabs and sponges|GCA_053407035.1_genomic.fna.gz
+Environment|Environmental swabs and sponges|GCA_052700725.3_genomic.fna.gz
+Environment|Sediment and waste|GCA_053242995.1_genomic.fna.gz
+Environment|Sediment and waste|GCA_053250015.1_genomic.fna.gz
+Environment|Sediment and waste|GCA_053250355.1_genomic.fna.gz
+Environment|Sediment and waste|GCA_053245375.1_genomic.fna.gz
+Environment|Sediment and waste|GCA_053520255.1_genomic.fna.gz
+Environment|Water and wastewater|GCA_053168815.1_genomic.fna.gz
+Environment|Water and wastewater|GCA_053516565.1_genomic.fna.gz
+Environment|Water and wastewater|GCA_054089205.1_genomic.fna.gz
+Environment|Water and wastewater|GCA_054101015.1_genomic.fna.gz
+Environment|Water and wastewater|GCA_053281615.1_genomic.fna.gz
+Food chain|Beef products|GCA_053260645.1_genomic.fna.gz
+Food chain|Beef products|GCA_053647345.1_genomic.fna.gz
+Food chain|Beef products|GCA_053367395.1_genomic.fna.gz
+Food chain|Beef products|GCA_053278115.1_genomic.fna.gz
+Food chain|Beef products|GCA_053259915.1_genomic.fna.gz
+Food chain|Chicken products|GCA_053833475.1_genomic.fna.gz
+Food chain|Chicken products|GCA_053735715.1_genomic.fna.gz
+Food chain|Chicken products|GCA_053507065.1_genomic.fna.gz
+Food chain|Chicken products|GCA_053756435.1_genomic.fna.gz
+Food chain|Chicken products|GCA_053662455.1_genomic.fna.gz
+Food chain|General food and retail|GCA_053740565.1_genomic.fna.gz
+Food chain|General food and retail|GCA_053376825.1_genomic.fna.gz
+Food chain|General food and retail|GCA_053229025.1_genomic.fna.gz
+Food chain|General food and retail|GCF_048296795.1_genomic.fna.gz
+Food chain|General food and retail|GCA_053277375.1_genomic.fna.gz
+Food chain|Mixed, processed, and specialty foods|GCA_053720975.1_genomic.fna.gz
+Food chain|Mixed, processed, and specialty foods|GCA_053453225.1_genomic.fna.gz
+Food chain|Mixed, processed, and specialty foods|GCA_053717975.1_genomic.fna.gz
+Food chain|Mixed, processed, and specialty foods|GCA_053118995.2_genomic.fna.gz
+Food chain|Mixed, processed, and specialty foods|GCF_041941485.1_genomic.fna.gz
+Food chain|Plant-derived foods|GCA_053165035.1_genomic.fna.gz
+Food chain|Plant-derived foods|GCA_053843255.1_genomic.fna.gz
+Food chain|Plant-derived foods|GCA_053164935.1_genomic.fna.gz
+Food chain|Plant-derived foods|GCA_053164875.1_genomic.fna.gz
+Food chain|Plant-derived foods|GCF_053338755.1_genomic.fna.gz
+Food chain|Pork products|GCA_053982455.1_genomic.fna.gz
+Food chain|Pork products|GCA_053755955.1_genomic.fna.gz
+Food chain|Pork products|GCA_053476135.1_genomic.fna.gz
+Food chain|Pork products|GCA_008425845.2_genomic.fna.gz
+Food chain|Pork products|GCA_053755515.1_genomic.fna.gz
+Food chain|Seafood and aquatic foods|GCA_053541515.1_genomic.fna.gz
+Food chain|Seafood and aquatic foods|GCA_053720855.1_genomic.fna.gz
+Food chain|Seafood and aquatic foods|GCA_053721655.1_genomic.fna.gz
+Food chain|Seafood and aquatic foods|GCA_053720915.1_genomic.fna.gz
+Food chain|Seafood and aquatic foods|GCA_053769985.1_genomic.fna.gz
+Food chain|Turkey and duck products|GCA_053744075.1_genomic.fna.gz
+Food chain|Turkey and duck products|GCA_053787375.1_genomic.fna.gz
+Food chain|Turkey and duck products|GCA_053358975.1_genomic.fna.gz
+Food chain|Turkey and duck products|GCA_014644715.2_genomic.fna.gz
+Food chain|Turkey and duck products|GCA_053277595.1_genomic.fna.gz
+Human clinical|Blood and tissues|GCA_053410375.1_genomic.fna.gz
+Human clinical|Blood and tissues|GCA_053163015.1_genomic.fna.gz
+Human clinical|Blood and tissues|GCF_039777535.1_genomic.fna.gz
+Human clinical|Blood and tissues|GCA_053413135.1_genomic.fna.gz
+Human clinical|Blood and tissues|GCA_053161675.1_genomic.fna.gz
+Human clinical|Gastrointestinal and urogenital|GCA_046272035.1_genomic.fna.gz
+Human clinical|Gastrointestinal and urogenital|GCF_053757605.1_genomic.fna.gz
+Human clinical|Gastrointestinal and urogenital|GCF_049619935.1_genomic.fna.gz
+Human clinical|Gastrointestinal and urogenital|GCA_049155505.1_genomic.fna.gz
+Human clinical|Gastrointestinal and urogenital|GCA_053393495.1_genomic.fna.gz
+Human clinical|Wounds and abscesses|GCF_053211195.1_genomic.fna.gz
+Human clinical|Wounds and abscesses|GCA_053410895.1_genomic.fna.gz
+Human clinical|Wounds and abscesses|GCA_053973935.1_genomic.fna.gz
+Human clinical|Wounds and abscesses|GCA_053520275.1_genomic.fna.gz
+Human clinical|Wounds and abscesses|GCA_053410695.1_genomic.fna.gz
+Livestock and Other animals|Animal organs and body sites|GCF_053540665.1_genomic.fna.gz
+Livestock and Other animals|Animal organs and body sites|GCA_053974035.1_genomic.fna.gz
+Livestock and Other animals|Animal organs and body sites|GCA_054100125.1_genomic.fna.gz
+Livestock and Other animals|Animal organs and body sites|GCA_053973915.1_genomic.fna.gz
+Livestock and Other animals|Animal organs and body sites|GCA_054099465.1_genomic.fna.gz
+Livestock and Other animals|Cattle|GCA_053809075.1_genomic.fna.gz
+Livestock and Other animals|Cattle|GCA_053778055.1_genomic.fna.gz
+Livestock and Other animals|Cattle|GCA_053224525.1_genomic.fna.gz
+Livestock and Other animals|Cattle|GCA_053660435.1_genomic.fna.gz
+Livestock and Other animals|Cattle|GCA_053877435.1_genomic.fna.gz
+Livestock and Other animals|Chicken and poultry birds|GCA_054065935.1_genomic.fna.gz
+Livestock and Other animals|Chicken and poultry birds|GCF_053361315.1_genomic.fna.gz
+Livestock and Other animals|Chicken and poultry birds|GCA_053411695.1_genomic.fna.gz
+Livestock and Other animals|Chicken and poultry birds|GCA_053721855.1_genomic.fna.gz
+Livestock and Other animals|Chicken and poultry birds|GCA_053718035.1_genomic.fna.gz
+Livestock and Other animals|Companion animals|GCF_041927295.1_genomic.fna.gz
+Livestock and Other animals|Companion animals|GCF_041928935.1_genomic.fna.gz
+Livestock and Other animals|Companion animals|GCF_041868035.1_genomic.fna.gz
+Livestock and Other animals|Companion animals|GCF_041927325.1_genomic.fna.gz
+Livestock and Other animals|Companion animals|GCF_041868605.1_genomic.fna.gz
+Livestock and Other animals|Swine|GCA_054087485.1_genomic.fna.gz
+Livestock and Other animals|Swine|GCF_050263195.1_genomic.fna.gz
+Livestock and Other animals|Swine|GCA_053683455.1_genomic.fna.gz
+Livestock and Other animals|Swine|GCA_053481855.1_genomic.fna.gz
+Livestock and Other animals|Swine|GCA_054104225.1_genomic.fna.gz
+Livestock and Other animals|Wildlife and other animals|GCA_053720475.1_genomic.fna.gz
+Livestock and Other animals|Wildlife and other animals|GCA_053722255.1_genomic.fna.gz
+Livestock and Other animals|Wildlife and other animals|GCA_053721355.1_genomic.fna.gz
+Livestock and Other animals|Wildlife and other animals|GCF_046271905.1_genomic.fna.gz
+Livestock and Other animals|Wildlife and other animals|GCA_053722095.1_genomic.fna.gz

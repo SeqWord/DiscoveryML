@@ -1,0 +1,224 @@
+Category_1	Category_2	Metadata_fields	Match_type	Keyword
+Human clinical	Blood and tissues	biosample_attr__isolation_source	exact	blood
+Human clinical	Blood and tissues	biosample_attr__isolation_source	exact	blood culture
+Human clinical	Blood and tissues	biosample_attr__isolation_source	exact	cerebrospinal fluid
+Human clinical	Blood and tissues	biosample_attr__isolation_source	exact	synovial fluid
+Human clinical	Blood and tissues	biosample_attr__isolation_source	exact	peritoneal effusion
+Human clinical	Blood and tissues	biosample_attr__isolation_source	exact	pericardic fluid
+Human clinical	Blood and tissues	biosample_attr__isolation_source	exact	pleura
+Human clinical	Blood and tissues	biosample_attr__isolation_source	exact	biopsy
+Human clinical	Blood and tissues	biosample_attr__isolation_source	exact	human tissue
+Human clinical	Blood and tissues	biosample_attr__isolation_source	exact	knee tissue
+Human clinical	Blood and tissues	biosample_attr__isolation_source	exact	subcutaneous tissue
+Human clinical	Gastrointestinal and urogenital	biosample_attr__isolation_source	exact	stool
+Human clinical	Gastrointestinal and urogenital	biosample_attr__isolation_source	exact	stools
+Human clinical	Gastrointestinal and urogenital	biosample_attr__isolation_source	exact	feces specimen
+Human clinical	Gastrointestinal and urogenital	biosample_attr__isolation_source	exact	fecal swab
+Human clinical	Gastrointestinal and urogenital	biosample_attr__isolation_source	exact	rectal swab
+Human clinical	Gastrointestinal and urogenital	biosample_attr__isolation_source	exact	perianal screening culture
+Human clinical	Gastrointestinal and urogenital	biosample_attr__isolation_source	exact	urine
+Human clinical	Wounds and abscesses	biosample_attr__isolation_source	exact	abscess
+Human clinical	Wounds and abscesses	biosample_attr__isolation_source	exact	pus
+Human clinical	Wounds and abscesses	biosample_attr__isolation_source	exact	wound
+Human clinical	Wounds and abscesses	biosample_attr__isolation_source	exact	wound swab
+Human clinical	Wounds and abscesses	biosample_attr__isolation_source	exact	draining tract
+Human clinical	Wounds and abscesses	biosample_attr__isolation_source	exact	aspirate
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	animal-cattle-beef cow
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	animal-cattle-dairy cow
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	animal-cattle-heifer
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	animal-cattle-steer
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	animal-cattle-bull
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	animal-cattle-beef cow (cecal)
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	animal-cattle-dairy cow (cecal)
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	animal-cattle-heifer (cecal)
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	animal-cattle-steer (cecal)
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	bos taurus
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	bovine
+Livestock and Other animals	Cattle	biosample_attr__isolation_source	exact	fecal (bos taurus)
+Livestock and Other animals	Swine	biosample_attr__isolation_source	exact	animal-swine-market swine (cecal)
+Livestock and Other animals	Swine	biosample_attr__isolation_source	exact	animal-swine-sow (cecal)
+Livestock and Other animals	Swine	biosample_attr__isolation_source	exact	swine
+Livestock and Other animals	Swine	biosample_attr__isolation_source	exact	pig
+Livestock and Other animals	Swine	biosample_attr__isolation_source	exact	pig carcass
+Livestock and Other animals	Swine	biosample_attr__isolation_source	exact	pig feces
+Livestock and Other animals	Swine	biosample_attr__isolation_source	exact	rectal swab from pig
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	animal-chicken-heavy fowl
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	animal-chicken-young chicken (cecal)
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	animal-turkey-young turkey (cecal)
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	animal-turkey-turkey carcass sponge
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	chick
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	chicken
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	chiken
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	broiler farm
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	poultry
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	poultry internal organs
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	poultry processing plant
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	poultry shed
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	duck
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	duck embyro egg
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	turkey
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	hatchery
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	lairage
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	intestinal contents of broiler
+Livestock and Other animals	Chicken and poultry birds	biosample_attr__isolation_source	exact	environmental swab of broiler flock
+Livestock and Other animals	Companion animals	biosample_attr__isolation_source	exact	dog
+Livestock and Other animals	Companion animals	biosample_attr__isolation_source	exact	canine
+Livestock and Other animals	Companion animals	biosample_attr__isolation_source	exact	cat
+Livestock and Other animals	Companion animals	biosample_attr__isolation_source	exact	domestic shorthair cat- abscess in the cat lung
+Livestock and Other animals	Wildlife and other animals	biosample_attr__isolation_source	exact	bird nest
+Livestock and Other animals	Wildlife and other animals	biosample_attr__isolation_source	exact	cull
+Livestock and Other animals	Wildlife and other animals	biosample_attr__isolation_source	exact	foal
+Livestock and Other animals	Wildlife and other animals	biosample_attr__isolation_source	exact	frilled lizard
+Livestock and Other animals	Wildlife and other animals	biosample_attr__isolation_source	exact	lamb
+Livestock and Other animals	Wildlife and other animals	biosample_attr__isolation_source	exact	pigeon
+Livestock and Other animals	Wildlife and other animals	biosample_attr__isolation_source	exact	wild boar
+Livestock and Other animals	Wildlife and other animals	biosample_attr__isolation_source	exact	wildlife
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	anal swab
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	bone swab
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	brain swab
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	cecum contents
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	cloacal swab
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	colon
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	gi tract
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	gut
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	heart
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	heart surface
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	homogenized tissue
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	intestinal contents
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	intestinal tract
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	intestine
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	joint swab
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	kidney
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	liver
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	liver & gallbladder
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	lung
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	lymph node
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	pericardic fluid
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	peritoneal effusion
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	pleura
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	rectum
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	spleen
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	spleen surface
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	stomach contents
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	tonsils
+Livestock and Other animals	Animal organs and body sites	biosample_attr__isolation_source	exact	urachus swab
+Food chain	General food and retail	biosample_attr__isolation_source	exact	food
+Food chain	General food and retail	biosample_attr__isolation_source	exact	food sample
+Food chain	General food and retail	biosample_attr__isolation_source	exact	miscellaneous foods
+Food chain	General food and retail	biosample_attr__isolation_source	exact	meat
+Food chain	General food and retail	biosample_attr__isolation_source	exact	meat retail
+Food chain	General food and retail	biosample_attr__isolation_source	exact	retail chicken meat
+Food chain	General food and retail	biosample_attr__isolation_source	exact	food: retail chicken meat
+Food chain	General food and retail	biosample_attr__isolation_source	exact	raw intact chicken
+Food chain	General food and retail	biosample_attr__isolation_source	exact	nonintact chicken
+Food chain	General food and retail	biosample_attr__isolation_source	exact	rte product
+Food chain	General food and retail	biosample_attr__isolation_source	exact	rtc boneless skinless chicken breast with rib meat
+Food chain	General food and retail	biosample_attr__isolation_source	exact	feed
+Food chain	Beef products	biosample_attr__isolation_source	exact	beef
+Food chain	Beef products	biosample_attr__isolation_source	exact	comminuted beef
+Food chain	Beef products	biosample_attr__isolation_source	exact	ground beef
+Food chain	Beef products	biosample_attr__isolation_source	exact	product-raw-intact-beef
+Food chain	Beef products	biosample_attr__isolation_source	exact	milk
+Food chain	Beef products	biosample_attr__isolation_source	exact	milk: raw bovine
+Food chain	Pork products	biosample_attr__isolation_source	exact	pork
+Food chain	Pork products	biosample_attr__isolation_source	exact	pork chop
+Food chain	Pork products	biosample_attr__isolation_source	exact	pork meat
+Food chain	Pork products	biosample_attr__isolation_source	exact	pork (cecal content)
+Food chain	Pork products	biosample_attr__isolation_source	exact	product-raw-ground, comminuted or otherwise nonintact-pork
+Food chain	Pork products	biosample_attr__isolation_source	exact	product-raw-intact-pork
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken - young chicken carcass rinse (post-chill)
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken breast
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken breasts
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken carcass
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken chicken gizzard
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken chicken liver
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken drumsticks
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken from wet market
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken gizzard
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken gizzard (giblets)
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken gizzards
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken gut
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken heart
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken hearts (giblets)
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken liver
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken livers
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken meat
+Food chain	Chicken products	biosample_attr__isolation_source	exact	chicken thighs
+Food chain	Chicken products	biosample_attr__isolation_source	exact	comminuted chicken
+Food chain	Chicken products	biosample_attr__isolation_source	exact	ground chicken
+Food chain	Chicken products	biosample_attr__isolation_source	exact	mechanically separated chicken
+Food chain	Chicken products	biosample_attr__isolation_source	exact	organic drumett
+Food chain	Chicken products	biosample_attr__isolation_source	exact	product-rinse-chicken
+Food chain	Chicken products	biosample_attr__isolation_source	exact	spicey chicken breast
+Food chain	Chicken products	biosample_attr__isolation_source	exact	product-eggs-dried-yellow egg products
+Food chain	Chicken products	biosample_attr__isolation_source	exact	raw eggs
+Food chain	Chicken products	biosample_attr__isolation_source	exact	retail shell egg
+Food chain	Turkey and duck products	biosample_attr__isolation_source	exact	comminuted turkey
+Food chain	Turkey and duck products	biosample_attr__isolation_source	exact	duck meat
+Food chain	Turkey and duck products	biosample_attr__isolation_source	exact	turkey fresh mst
+Food chain	Turkey and duck products	biosample_attr__isolation_source	exact	turkey ground turkey
+Food chain	Seafood and aquatic foods	biosample_attr__isolation_source	exact	aquatic products
+Food chain	Seafood and aquatic foods	biosample_attr__isolation_source	exact	cooked mussels
+Food chain	Seafood and aquatic foods	biosample_attr__isolation_source	exact	fresh water fish catla catla
+Food chain	Seafood and aquatic foods	biosample_attr__isolation_source	exact	frozen layang scad whole round
+Food chain	Seafood and aquatic foods	biosample_attr__isolation_source	exact	frozen raw shrimp
+Food chain	Seafood and aquatic foods	biosample_attr__isolation_source	exact	frozen shrimp
+Food chain	Seafood and aquatic foods	biosample_attr__isolation_source	exact	hairtail fish
+Food chain	Seafood and aquatic foods	biosample_attr__isolation_source	exact	rohu fish
+Food chain	Seafood and aquatic foods	biosample_attr__isolation_source	exact	shrimp
+Food chain	Seafood and aquatic foods	biosample_attr__isolation_source	exact	silver pomfret fish
+Food chain	Seafood and aquatic foods	biosample_attr__isolation_source	exact	tilapia
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	baking flour
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	basil
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	black pepper
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	cold dish
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	coriander
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	cucumber
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	fermented soybean
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	holy basil
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	jujube
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	leafy greens
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	moringa
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	oat
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	peanuts
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	pistachio
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	pistachio kernel
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	pistachio paste
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	raw almond
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	sesame seeds
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	sweet basil
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	tahini
+Food chain	Plant-derived foods	biosample_attr__isolation_source	exact	tahini sesame seed paste
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	aidells chicken and apple sausage
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	fragrance product
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	gimbap
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	greens and vegetable blend dietary supplement with moringa powder
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	insect based food (crickets)
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	jelly
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	kangaroo tail dog chew
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	kratom
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	nadiyadi mix
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	pet food dog
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	sausage
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	spice mix for chicken
+Food chain	Mixed, processed, and specialty foods	biosample_attr__isolation_source	exact	spices
+Environment	Environmental swabs and sponges	biosample_attr__isolation_source	exact	carcass
+Environment	Environmental swabs and sponges	biosample_attr__isolation_source	exact	drag (farm)
+Environment	Environmental swabs and sponges	biosample_attr__isolation_source	exact	drag swab
+Environment	Environmental swabs and sponges	biosample_attr__isolation_source	exact	environmental swab
+Environment	Environmental swabs and sponges	biosample_attr__isolation_source	exact	environmental swab sponge
+Environment	Environmental swabs and sponges	biosample_attr__isolation_source	exact	swab
+Environment	Water and wastewater	biosample_attr__isolation_source	exact	filter from dairy farm
+Environment	Water and wastewater	biosample_attr__isolation_source	exact	irrigation water
+Environment	Water and wastewater	biosample_attr__isolation_source	exact	reservoir
+Environment	Water and wastewater	biosample_attr__isolation_source	exact	river water
+Environment	Water and wastewater	biosample_attr__isolation_source	exact	sewage
+Environment	Water and wastewater	biosample_attr__isolation_source	exact	wastewater
+Environment	Water and wastewater	biosample_attr__isolation_source	exact	wastewater influent
+Environment	Water and wastewater	biosample_attr__isolation_source	exact	water
+Environment	Sediment and waste	biosample_attr__isolation_source	exact	faces
+Environment	Sediment and waste	biosample_attr__isolation_source	exact	faecal samples
+Environment	Sediment and waste	biosample_attr__isolation_source	exact	feces
+Environment	Sediment and waste	biosample_attr__isolation_source	exact	floor litter
+Environment	Sediment and waste	biosample_attr__isolation_source	exact	livestock manure
+Environment	Sediment and waste	biosample_attr__isolation_source	exact	sediment
