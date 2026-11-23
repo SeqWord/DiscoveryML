@@ -33,7 +33,7 @@
 | 13 | `SplitTrainingTesterDatasets` | `split_dataset.py` | Create training and independent test cohorts |
 | 14 | `Training` | `model_selector.py`, `run.py` | Select and train hierarchical classifiers |
 | 15 | `Testing` | `tester.py`, `per_cluster_statistics.py`, `model_reader.py` | Evaluate and inspect trained models |
-| 16 *(optional refinement)* | `Grossgrouping` | `crossgrouping.py` | Add cross-identification groups |
+| 16 *(optional refinement)* | `Crossgrouping` | `crossgrouping.py` | Add cross-identification groups |
 
 > Folder names above reproduce the supplied names, including `ReferenceSelectionByKyewords` and `Grossgrouping`. Actual numbered directory prefixes were not provided. Run commands from the respective step directory, or supply its path explicitly. Steps 6 and 11 use the same clustering programs in separate passes.
 
